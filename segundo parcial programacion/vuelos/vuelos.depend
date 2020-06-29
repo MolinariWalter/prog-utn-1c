@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1591829205 source:c:\users\wally\desktop\labo-prog 1\clase17_archivos\vuelos\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Functions.h"
+
+1591308089 c:\users\wally\desktop\labo-prog 1\clase17_archivos\vuelos\functions.h
+	<stdio.h>
+	<stdlib.h>
+
+1593470614 source:c:\users\wally\desktop\labo-prog 1\clase17_archivos\vuelos\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593470614 c:\users\wally\desktop\labo-prog 1\clase17_archivos\vuelos\linkedlist.h
+
+1593471484 source:c:\users\wally\desktop\labo-prog 1\clase17_archivos\vuelos\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"vuelos.h"
+	"parser.h"
+	"Functions.h"
+
+1593456443 c:\users\wally\desktop\labo-prog 1\clase17_archivos\vuelos\vuelos.h
+
+1593467799 c:\users\wally\desktop\labo-prog 1\clase17_archivos\vuelos\parser.h
+
+1593468500 source:c:\users\wally\desktop\labo-prog 1\clase17_archivos\vuelos\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"vuelos.h"
+	"piloto.h"
+	<string.h>
+
+1592853087 c:\users\wally\desktop\labo-prog 1\clase17_archivos\vuelos\post.h
+	"LinkedList.h"
+
+1593471484 source:c:\users\wally\desktop\labo-prog 1\clase17_archivos\vuelos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"vuelos.h"
+	"piloto.h"
+	"Functions.h"
+
+1593471484 c:\users\wally\desktop\labo-prog 1\clase17_archivos\vuelos\controller.h
+
+1592853087 source:c:\users\wally\desktop\labo-prog 1\clase17_archivos\vuelos\post.c
+	<stdlib.h>
+	"Post.h"
+	<string.h>
+	"Functions.h"
+
+1593456443 source:c:\users\wally\desktop\labo-prog 1\clase17_archivos\vuelos\vuelos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Functions.h"
+	"LinkedList.h"
+	"vuelos.h"
+	"piloto.h"
+
+1593471237 source:c:\users\wally\desktop\labo-prog 1\clase17_archivos\vuelos\piloto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Functions.h"
+	"LinkedList.h"
+	"piloto.h"
+
+1593470431 c:\users\wally\desktop\labo-prog 1\clase17_archivos\vuelos\piloto.h
+
